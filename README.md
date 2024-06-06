@@ -1,6 +1,6 @@
 # Node.js QR Code Generator
 
-This project is a QR code generator implemented using Node.js and npm packages.
+This project is a QR code generator implemented using MERN stack
 
 ## Project Structure
 
